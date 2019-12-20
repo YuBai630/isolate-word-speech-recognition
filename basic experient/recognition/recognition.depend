@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1572504527 source:c:\users\lenovo\desktop\dtw\codes\recognition\main.cpp
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	"binaryRead.h"
+	"recognition.h"
+
+1572916791 c:\users\lenovo\desktop\dtw\codes\recognition\binaryread.h
+
+1573040826 c:\users\lenovo\desktop\dtw\codes\recognition\recognition.h
+
+1573129785 source:c:\users\lenovo\desktop\多媒体上机实验-2017302452-宋崇星\语音作业\dtw孤立词识别\基础实验\recognition\main.cpp
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<cstdio>
+	"binaryRead.h"
+	"recognition.h"
+
+1572916791 c:\users\lenovo\desktop\多媒体上机实验-2017302452-宋崇星\语音作业\dtw孤立词识别\基础实验\recognition\binaryread.h
+
+1573040826 c:\users\lenovo\desktop\多媒体上机实验-2017302452-宋崇星\语音作业\dtw孤立词识别\基础实验\recognition\recognition.h
+

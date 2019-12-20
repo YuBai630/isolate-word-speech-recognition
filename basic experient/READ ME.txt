@@ -1,0 +1,2 @@
+The recognition folder is the C++ engineering files.
+Generate the corresponding MFC file under get_mfcc folder.

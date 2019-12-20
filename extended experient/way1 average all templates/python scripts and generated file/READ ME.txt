@@ -1,0 +1,10 @@
+Wav is the folder provided by the course;
+Rename. Py renames the audio of the original train set and stores it in the new folder;
+Rename1.py renames the original test set audio and stores it in the new1 folder;
+Get_group_path.py gets the MFC file path of each number and stores it in the path folder.
+Get_audios_test.py gets the test data list file audios_test;
+Get_audios_train.py gets the training data list file audios_train;
+Generate the training MFC file through the Hcopy command and save it in the mfctrain folder.
+The generated test MFC file is saved in the mfctest folder.
+Get_testfile_list.py gets the test data from the MFC file path file test_filelist.txt;
+After generating the data, the mfctest folder, mfctrain folder, path folder, test_filelist.txt file need to be moved to the speech folder in the directory above.

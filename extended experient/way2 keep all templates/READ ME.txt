@@ -1,0 +1,1 @@
+alltemplate folder is C++ project

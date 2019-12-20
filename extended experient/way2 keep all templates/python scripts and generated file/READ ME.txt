@@ -1,0 +1,8 @@
+Wav is the folder provided by the course;
+Get_audios_test.py gets the test data list file audios_test;
+Get_audios_train.py gets the training data list file audios_train;
+Generate the training MFC file through the Hcopy command and save it in the mfctrain folder.
+The generated test MFC file is saved in the mfctest folder.
+Get_testfilespath.py gets the test data from the MFC file test_filelist.txt;
+Get_trainfilespath.py to get the training data MFC file path file train_filelist.txt;
+The generated mfctest folder, mfctrain folder, path folder, test_filelist.txt, train_filelist.txt files need to be moved to the alltemplate folder in the first level directory.
