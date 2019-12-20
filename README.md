@@ -17,11 +17,3 @@ audio\0_template.wav     mfc\0_template.mfc
 audio\1template.wav      mfc\1_template.mfc
 Example of feature extraction process: create two folders audio and MFC in the same level path of HCopy, copy all wav audio files into the audio folder, edit the list file audios. SCP, enter the path of HCopy from the command line, call HCopy, and get the . MFC feature files corresponding to audio files under the MFC folder.
 
-
-
-result:
-（1）based experient
-digit         0 1 234567890~9
-correct num	  3 3 1	 4	3	4	4	4	4	4	34
-wrong num	    1 1	  3	 0	1	0	0	0	0	0	6
-correct rate 	75% 75%	25%	100%	75%	100%	100%	100%	100%	100%	85%
